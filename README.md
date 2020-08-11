@@ -5,5 +5,5 @@ Stuff added that weren't in the tutorial: trail effect, gradually increasing spe
 
 <br>
 
-!![](PlayerMode.png)
-!![](PongClone.gif)
+<img src="https://github.com/wallflower6/PongClone/blob/master/PlayerMode.png" width="400px" />
+<img src="https://github.com/wallflower6/PongClone/blob/master/PongClone.gif" width="400px" />
